@@ -29,8 +29,8 @@ as usual.
 
 ### Binary packages
 
-Official binary packages are available in Arch Linux, Debian (as of Debian stretch),
-Fedora and openSUSE (Leap 42.1 and Tumbleweed). Just use the distributions'
+Official binary packages are available in Arch Linux, Debian,
+Fedora, openSUSE and others. Just use the distributions'
 package manager to search for string 'lximage'.
 
 
